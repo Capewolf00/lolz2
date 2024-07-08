@@ -41,7 +41,7 @@ setup(
   author_email='peter.tonner@duke.edu',
   # packages=['gpfanova','gpfanova.plot','gpfanova.sample','gpfanova.kernel','examples'],
   packages = find_packages(exclude=('analysis*','analysis.*','data','results')),
-  url='https://github.com/ptonner/gpfanova',
+  url='https://github.com/Capewolf00/lolz2.git',
 
   keywords='bayesian statistics time-course',
 
